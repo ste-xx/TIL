@@ -1,5 +1,8 @@
 ## Welcome to my Today I Learned (TIL)-Blog
 
+### 27.06.2020
+- Nothing so far :(
+
 ### 26.06.2020
 - CSS you can select all rows in a css-grid with: 
 ``` 
