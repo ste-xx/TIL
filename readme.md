@@ -1,9 +1,16 @@
 ## Welcome to my Today I Learned (TIL)-Blog
 
-### 31.06.2020
+### 30.06.2020
 - Github actions are awesome[wip]
-- Why I love serverless... in a nutshell [wip]
+  * started 
+  * A dream if you come from older ci/cd tools, yeah bamboo i look to you
+  * other versioned plan -> (travis, bitrise)
+  * Flawless integration
 
+- Why I love serverless... in a nutshell [wip]
+  * Network-stuff, I know the "basics" but i dont care, because im a dev und want try to things out.
+  * clicki clicki clicke or wall of templates to do "simple" things
+  
 ### 27.06.2020
 - Nothing so far :(
 
