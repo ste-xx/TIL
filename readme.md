@@ -1,5 +1,9 @@
 ## Welcome to my Today I Learned (TIL)-Blog
 
+### 31.06.2020
+- Github actions are awesome[wip]
+- Why I love serverless... in a nutshell [wip]
+
 ### 27.06.2020
 - Nothing so far :(
 
