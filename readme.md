@@ -10,6 +10,26 @@
 - Why I love serverless... in a nutshell [wip]
   * Network-stuff, I know the "basics" but i dont care, because im a dev und want try to things out.
   * clicki clicki clicke or wall of templates to do "simple" things
+  * try to integrate renovate in our build pipeline, or: i want start a fargate container: 
+   Part Container Stuff
+    * setup docker registery
+    * push to docker registry
+    * IAM Roles who is allowed to consume (pull)
+   Part VPC 
+    * Create vpc
+    * Create Subnet
+    * Create Route Table
+    * Create Internet Gateway
+    * Create Security Group
+   Secret Manager
+    * Create Secret
+    * Iam Role (who is allowed to consume)
+   Part Fargate 
+    * IAM Roles (ecsExecutionRole, execution)
+   Part CloudWatch Events
+    * Cron
+    * IAM Roles (execution)
+  * or use github.........
   
 ### 27.06.2020
 - Nothing so far :(
