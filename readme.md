@@ -12,7 +12,7 @@
   but you dont get the big benefit from buildplan-as-code: 
   
   The classic approach result more often to issues, if you want a specific feature-branch, which requires new build or deploy steps.
-  With tools like github actions, you serve your build plan among the git branch, because it is a file in your repo.
+  With tools like github actions, you serve your build plan among the git branch, the build-agent will grab this file, read it and follow that instructions.
   If you change your build plan for the branch, the other branches are not affected.
   
   ```
