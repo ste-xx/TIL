@@ -4,7 +4,7 @@
   - Nothing so far :(
   
 ### 30.06.2020
-- Github actions ais a dream to work with... [wip]
+#### Github actions ais a dream to work with... [wip]
   ... if you come from older ci/cd tools like on-premise Bamboo, 
   where the build plan are seperated from the actual (git) project.
   
