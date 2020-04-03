@@ -3,6 +3,7 @@
 ### 2.04.2020
 #### Renovate rocks
 #### Google sheets can import data from many sources, like urls? I will investigate that. 
+#### Vue sloted properties
 
 ### 1.04.2020
 #### Nothing so far
