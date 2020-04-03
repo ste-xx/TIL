@@ -1,9 +1,16 @@
 ## Welcome to my Today I Learned (TIL)-Blog
 
-### 31.06.2020
+### 2.04.2020
+#### Renovate rocks
+#### Google sheets can import data from many sources, like urls? I will investigate that. 
+
+### 1.04.2020
+#### Nothing so far
+
+### 31.03.2020
 #### Nothing so far :(
   
-### 30.06.2020
+### 30.03.2020
 #### Github actions ais a dream to work with... [wip]
   ... if you come from older ci/cd tools like on-premise Bamboo, 
   where the build plan are seperated from the actual (git) project.
@@ -45,10 +52,10 @@
     * IAM Roles (execution)
   * or use github.........
   
-### 27.06.2020
+### 27.03.2020
 ####  Nothing so far :(
 
-### 26.06.2020
+### 26.03.2020
 #### CSS you can select all rows in a css-grid with: 
 ``` 
 row-start: -1; 
