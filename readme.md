@@ -1,5 +1,8 @@
 ## Welcome to my Today I Learned (TIL)-Blog
 
+### 3.04.2020
+#### Nothing so far
+
 ### 2.04.2020
 #### Renovate rocks
 #### Google sheets can import data from many sources, like urls? I will investigate that. 
@@ -12,7 +15,7 @@
 #### Nothing so far :(
   
 ### 30.03.2020
-#### Github actions ais a dream to work with... [wip]
+#### Github actions is a dream to work with... [wip]
   ... if you come from older ci/cd tools like on-premise Bamboo, 
   where the build plan are seperated from the actual (git) project.
   
@@ -27,7 +30,7 @@
   Todo: <insert nice graphics?> 
   ```
   Github actions is not the only service which provides so a services. There are travis, bitrise (i love bitrise for apple dependend deployment, maybe more in another post? ) and many more.
-  A big benefit for Github actions are, that they are first class citizen in the github area and the onboarding works flawless.
+  A big benefit for Github actions are, that they are first class citizen in the github eco system and the onboarding works flawless.
   
 #### Why I love serverless... in a nutshell [wip]
   * Network-stuff, I know the "basics" but i dont care, because im a dev und want try to things out.
