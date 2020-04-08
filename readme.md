@@ -1,4 +1,12 @@
 ## Welcome to my Today I Learned (TIL)-Blog
+### 8.04.2020
+#### Nothing so far
+
+### 7.04.2020
+#### Nothing so far
+
+### 6.04.2020
+#### Nothing so far
 
 ### 3.04.2020
 #### Nothing so far
