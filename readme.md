@@ -1,27 +1,10 @@
 ## Welcome to my Today I Learned (TIL)-Blog
-### 8.04.2020
-#### Nothing so far
-
-### 7.04.2020
-#### Nothing so far
-
-### 6.04.2020
-#### Nothing so far
-
-### 3.04.2020
-#### Nothing so far
 
 ### 2.04.2020
 #### Renovate rocks
 #### Google sheets can import data from many sources, like urls? I will investigate that. 
 #### Vue sloted properties
 
-### 1.04.2020
-#### Nothing so far
-
-### 31.03.2020
-#### Nothing so far :(
-  
 ### 30.03.2020
 #### Github actions is a dream to work with... [wip]
   ... if you come from older ci/cd tools like on-premise Bamboo, 
@@ -64,8 +47,6 @@
     * IAM Roles (execution)
   * or use github.........
   
-### 27.03.2020
-####  Nothing so far :(
 
 ### 26.03.2020
 #### CSS you can select all rows in a css-grid with: 
