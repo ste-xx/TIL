@@ -18,7 +18,33 @@
   If you change your build plan for the branch, the other branches are not affected.
   
   ```
-  Todo: <insert nice graphics?> 
+  # http://www.graphviz.org/content/cluster
+digraph G {
+  rankdir="LR";
+  splines=false
+  graph [fontname = "Handlee"];
+  node [fontname = "Handlee", style=filled];
+  edge [fontname = "Handlee"];
+  fontsize = 20;
+  bgcolor=transparent;
+  color=lightgrey;
+  
+  m0 [label="initial"]
+  m1 [label="..."]
+  
+  f0 [label="..."]
+  f1 [label="commit, which changes build spec"]
+  f2 [label="..."]; 
+  
+  merge [label="merge"]
+    
+  m0 -> m1;
+  
+  m0 -> f0 [weight=0];
+  f0 -> f1 -> f2;
+  m1 -> merge
+  f2 -> merge [weight=0]
+}
   ```
   Github actions is not the only service which provides so a services. There are travis, bitrise (i love bitrise for apple dependend deployment, maybe more in another post? ) and many more.
   A big benefit for Github actions are, that they are first class citizen in the github eco system and the onboarding works flawless.
