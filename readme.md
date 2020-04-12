@@ -17,6 +17,9 @@
   With tools like github actions, you serve your build plan among the git branch, the build-agent will grab this file, read it and follow that instructions.
   If you change your build plan for the branch, the other branches are not affected.
   
+  ![bamboo_workflow](https://github.com/ste-xx/TIL/raw/master/img/blog_bamboo.png)
+  ![github_actions_workflow](https://github.com/ste-xx/TIL/raw/master/img/blog_github.png)
+
   ```
   # http://www.graphviz.org/content/cluster
 digraph G {
