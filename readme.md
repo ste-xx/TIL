@@ -1,5 +1,8 @@
 ## Welcome to my Today I Learned (TIL)-Blog
 
+### 14.04.2020
+#### Gridsome is a good gatsby replacement, if you have a vue background
+
 ### 2.04.2020
 #### Renovate rocks
 #### Google sheets can import data from many sources, like urls? I will investigate that. 
