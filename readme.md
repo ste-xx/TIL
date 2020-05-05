@@ -1,5 +1,13 @@
 ## Welcome to my Today I Learned (TIL)-Blog
 
+### 1.05.2020
+#### Responsive images with srcset
+
+### 29.04.2020
+#### Chrome Performance DevTools 
+Show painting rectangles is nice, to locate stuff which produce a whole relayout from the page.
+
+
 ### 22.04.2020
 #### CSS BEM
 
