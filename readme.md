@@ -7,6 +7,9 @@ The previous version (N-1)
 The current version (N)
 The next version (N+1)
 
+### 21.05.2020
+#### Static sidebuilder are ... okayish (wix)
+
 ### 19.05.2020
 #### gitlab pipelines with .gitlab-ci.yml
 
