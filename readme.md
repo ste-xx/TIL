@@ -1,5 +1,15 @@
 ## Welcome to my Today I Learned (TIL)-Blog
 
+### 22.05.2020
+#### GraphQL Server + Cloudflare = Love
+#### 3-N in API-Design 
+The previous version (N-1)
+The current version (N)
+The next version (N+1)
+
+### 19.05.2020
+#### gitlab pipelines with .gitlab-ci.yml
+
 ### 1.05.2020
 #### Responsive images with srcset
 
